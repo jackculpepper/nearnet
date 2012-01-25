@@ -1,0 +1,22 @@
+
+nearnet
+
+- A Matlab implementation of local coordinate coding.
+- A C++ implementation of locality constrained linear coding.
+- Not sure what the state of either is.
+
+Refs:
+
+http://arxiv.org/abs/0906.5190
+http://www.ifp.illinois.edu/~jyang29/LLC.htm
+
+Things you might need:
+
+IMAGES.mat
+
+http://redwood.berkeley.edu/bruno/sparsenet/IMAGES.mat
+
+lbfgsb
+
+https://github.com/jackculpepper/lbfgsb-stewart
+
