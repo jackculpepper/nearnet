@@ -1,0 +1,11 @@
+prefix test_init_scheduling
+log test_init_scheduling.log
+data_list files.txt
+L 3072
+M 3072
+Schedule 20
+B 100
+K 50
+num_iterations 100
+num_images 10000
+write_interval 5
